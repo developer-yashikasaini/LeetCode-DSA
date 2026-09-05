@@ -1,5 +1,3 @@
-LeetCode DSA Solutions
-
 Welcome to my LeetCode DSA repository! 🚀
 
 This repository contains my solutions to various LeetCode problems, implemented primarily in Java. The goal of this repository is to strengthen problem-solving skills, improve algorithmic thinking, and prepare for coding interviews.
