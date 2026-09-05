@@ -48,3 +48,15 @@ If you find this repository useful, feel free to star it and follow my coding jo
 
 Happy Coding! 🚀# LeetCode-DSA
 Collection of LeetCode DSA solutions in Java , featuring optimized approaches , clean code and interview-focused problem solving 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+<!---LeetCode Topics End-->
