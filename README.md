@@ -55,6 +55,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +77,8 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 <!---LeetCode Topics End-->
