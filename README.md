@@ -55,6 +55,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -80,5 +81,10 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
