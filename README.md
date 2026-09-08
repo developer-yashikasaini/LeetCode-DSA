@@ -54,6 +54,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0561-array-partition](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0561-array-partition/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Tree
