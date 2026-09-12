@@ -79,6 +79,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0547-number-of-provinces](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
@@ -95,6 +97,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -138,6 +141,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +205,8 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
