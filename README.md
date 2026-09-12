@@ -55,6 +55,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -94,6 +96,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -180,6 +183,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -209,4 +213,8 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
