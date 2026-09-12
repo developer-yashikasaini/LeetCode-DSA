@@ -61,6 +61,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0561-array-partition](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0561-array-partition/) | Easy |
 | [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
