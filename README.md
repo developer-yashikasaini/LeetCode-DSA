@@ -76,6 +76,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -98,6 +100,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -187,6 +190,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
