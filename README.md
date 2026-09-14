@@ -86,6 +86,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0450-delete-node-in-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
