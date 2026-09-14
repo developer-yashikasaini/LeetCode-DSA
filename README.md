@@ -86,6 +86,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0547-number-of-provinces](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -176,6 +179,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
