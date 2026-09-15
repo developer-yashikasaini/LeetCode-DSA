@@ -88,6 +88,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
@@ -218,6 +220,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -261,4 +264,8 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
