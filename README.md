@@ -87,6 +87,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -109,6 +110,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -133,6 +135,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -216,6 +219,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0101-symmetric-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0547-number-of-provinces](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
