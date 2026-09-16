@@ -80,6 +80,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0101-symmetric-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0101-symmetric-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -124,6 +126,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0101-symmetric-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -210,6 +213,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0112-path-sum/) | Easy |
