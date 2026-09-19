@@ -78,6 +78,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
@@ -132,6 +134,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
@@ -276,6 +279,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
