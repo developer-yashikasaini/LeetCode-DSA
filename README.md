@@ -70,6 +70,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0414-third-maximum-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0561-array-partition/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,10 +330,12 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,4 +344,8 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
