@@ -61,6 +61,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0118-pascals-triangle](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0217-contains-duplicate](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0414-third-maximum-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0414-third-maximum-number/) | Easy |
@@ -173,6 +174,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0217-contains-duplicate](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -188,6 +190,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0414-third-maximum-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0561-array-partition/) | Easy |
