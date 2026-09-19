@@ -173,6 +173,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0217-contains-duplicate](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -209,6 +210,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
@@ -323,6 +325,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
