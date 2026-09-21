@@ -54,6 +54,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
@@ -372,4 +374,8 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
