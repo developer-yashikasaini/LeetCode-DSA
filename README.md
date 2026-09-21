@@ -348,6 +348,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
