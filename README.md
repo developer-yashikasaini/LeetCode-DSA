@@ -54,6 +54,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -275,6 +276,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
