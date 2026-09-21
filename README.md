@@ -60,6 +60,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0136-single-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -327,6 +328,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
