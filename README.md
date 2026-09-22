@@ -68,6 +68,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0169-majority-element](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -188,6 +189,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0013-roman-to-integer](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -206,6 +208,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -215,6 +218,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0561-array-partition](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0561-array-partition/) | Easy |
 ## Two Pointers
@@ -279,6 +283,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0229-majority-element-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -335,6 +340,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
