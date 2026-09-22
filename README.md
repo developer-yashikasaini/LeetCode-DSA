@@ -57,6 +57,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0014-longest-common-prefix](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -290,6 +291,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
