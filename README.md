@@ -75,6 +75,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0283-move-zeroes](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0561-array-partition/) | Easy |
 | [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
