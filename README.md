@@ -81,6 +81,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0561-array-partition/) | Easy |
 | [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
+| [0704-binary-search](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -309,6 +310,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0704-binary-search](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
