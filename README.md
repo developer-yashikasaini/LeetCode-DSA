@@ -65,6 +65,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Tree
