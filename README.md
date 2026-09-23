@@ -54,6 +54,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
