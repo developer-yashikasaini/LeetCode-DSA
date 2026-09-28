@@ -88,6 +88,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0705-design-hashset](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0706-design-hashmap/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0896-monotonic-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0896-monotonic-array/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
