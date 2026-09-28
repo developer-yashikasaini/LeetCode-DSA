@@ -86,6 +86,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0706-design-hashmap/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -207,6 +208,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0706-design-hashmap/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +347,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0705-design-hashset](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0706-design-hashmap/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +370,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0706-design-hashmap/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,4 +426,5 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
