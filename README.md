@@ -80,6 +80,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0268-missing-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0242-valid-anagram](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0697-degree-of-an-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0705-design-hashset/) | Easy |
@@ -232,6 +234,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0242-valid-anagram](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0561-array-partition/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -253,6 +256,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0125-valid-palindrome](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -325,6 +329,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
