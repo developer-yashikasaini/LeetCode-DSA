@@ -89,6 +89,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0704-binary-search](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0706-design-hashmap/) | Easy |
+| [0867-transpose-matrix](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0896-monotonic-array/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
@@ -423,6 +424,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -441,4 +443,8 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0706-design-hashmap/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
