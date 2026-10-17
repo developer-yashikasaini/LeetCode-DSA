@@ -331,6 +331,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0268-missing-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -404,6 +405,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0066-plus-one](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
