@@ -103,6 +103,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0547-number-of-provinces](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | [0547-number-of-provinces](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +313,7 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,4 +453,12 @@ Collection of LeetCode DSA solutions in Java , featuring optimized approaches , 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0867-transpose-matrix/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/developer-yashikasaini/LeetCode-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
